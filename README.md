@@ -1,16 +1,14 @@
 # React + Vite
 
-Praticando React 
-
-
 Requerimientos:
 
 ✅ Creacion de componente button
+✅ Uso de la libreria Cowsay
 
 
 Librerias
 
 * Tailwind CSS
-* cowsay
+* Cowsay
 
 
