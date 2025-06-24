@@ -1,5 +1,5 @@
 export function Button () {
   return(
-    <button>Register</button>
+    <button className="text-black">Register</button>
   )
 }
