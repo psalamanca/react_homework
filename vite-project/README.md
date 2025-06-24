@@ -11,6 +11,6 @@ Requerimientos:
 Librerias
 
 * Tailwind CSS
-
+* cowsay
 
 
