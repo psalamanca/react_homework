@@ -1,2 +1,14 @@
-# react_homework
-Homework repository to add team information
+# React + Vite
+
+Requerimientos:
+
+✅ Creacion de componente button
+✅ Uso de la libreria Cowsay
+
+
+Librerias
+
+* Tailwind CSS
+* Cowsay
+
+
