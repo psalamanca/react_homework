@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "./page.module.css";
+import Button from './juanCa/components/Button';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
         <Link href="/julian">
           <button className={styles.button}>Ir a la página de Julian</button>
         </Link>
+        <Button />
       </main>
     </div>
   );
