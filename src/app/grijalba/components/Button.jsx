@@ -1,7 +1,8 @@
-import styles from "../../page.module.css";
+// import styles from "../../page.module.css";
+import "../css/StylesButton.css";
 
 function BtnRegister() {
-  return <button className={styles.button}>Registrarse</button>;
+  return <button className="buttonR">Registrarse</button>;
 }
 
 export default BtnRegister;

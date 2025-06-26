@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from "./page.module.css";
-import BtnRegister from "./grijalba/components/Button";
+import BtnRegister from "./grijalba/components/Button.jsx";
 
 export default function Home() {
   return (
