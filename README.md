@@ -2,6 +2,7 @@
 Homework repository to add team information  
 Prueba pull request Karen
 Prueba Grijalba
+Pull request Luis
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
