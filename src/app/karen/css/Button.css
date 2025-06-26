@@ -1,0 +1,15 @@
+
+.register {
+  background: rgb(124, 76, 247);
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+  font-size: large;
+  padding: 10px 20px;
+  margin: 20px;
+
+}
+.register:hover {
+    background: papayawhip;
+    color: black;
+}
