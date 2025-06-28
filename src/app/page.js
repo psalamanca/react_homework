@@ -8,8 +8,19 @@ export default function Home() {
         <h1 className={styles.title}>Página Principal</h1>
         <Link href="/julian">
           <button className={styles.button}>Ir a la página de Julian</button>
+ 
         </Link>
       </main>
+
+    <div>button felipe 
+     <Link href="/foronda">
+          <button className={styles.button}>Ir a la pagina react</button>
+ 
+        </Link>
+
     </div>
+    </div>
+    
+
   );
 }
