@@ -5,6 +5,8 @@ export default function Welcome() {
     <div>
       <h2>Bienvenidos al curso intensivo de React</h2>
       <Label message="Aprendiendo React!" />
+      <Label message="Julian Salamanca" />
+
     </div>
   );
 }
