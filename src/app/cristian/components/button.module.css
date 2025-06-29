@@ -1,0 +1,41 @@
+.title {
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+  padding: 100px;
+}
+
+.h2 {
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.button:hover {
+  transform: translateY(-2px);}
+
+
+.label {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.input{
+  padding: 5px;
+
+}
+.exercise {
+  text-align: center;
+}
