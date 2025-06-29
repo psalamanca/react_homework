@@ -8,7 +8,11 @@ Repositorio original: https://github.com/psalamanca/react_homework
 Para ver la ruta del origin haces: git remote -v
 Usuario Julian hace fork, el repositorio de Julian: https://github.com/pJulianSB/react_homework
 
+Comando para agregar la url del proyecto principal bajo el nombre fork
 git remote add fork https://github.com/psalamanca/react_homework.gitf
+
+Para hacer pull del proyecto principal realizo
+git pull fork main
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
