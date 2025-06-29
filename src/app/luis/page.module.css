@@ -1,0 +1,22 @@
+.Button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.register{
+    width: 500px;
+    height: 50px;
+    border-radius: 3px;
+    font-size: 20px;
+    background-color: #d08ee2;
+    border: none;
+    color: #55026c;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.register:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px #d08ee2;
+    background: #d08ee2;
+}
