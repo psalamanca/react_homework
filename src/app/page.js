@@ -10,12 +10,9 @@ export default function Home() {
         <Link href="/julian">
           <button className={styles.button}>Ir a la página de Julian</button>
         </Link>
-
-        <h2>=============================</h2>
-        <Link href="https://www.facebook.com/reg/?locale=es_ES">
-          <BtnRegister />
+        <Link href="/grijalba/js">
+          <button className={styles.button}>Ir a la página de Grijalba</button>
         </Link>
-        <h2>=============================</h2>
 
         <Link href="/luis">
           <button className={styles.button}>Ir a la página de Luis</button>
