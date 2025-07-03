@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "./page.module.css";
+import BtnRegister from "./grijalba/components/Button.jsx";
 
 export default function Home() {
   return (
@@ -12,6 +13,19 @@ export default function Home() {
 
          <Link href="/karen">
           <button className={styles.button}>Ir a la página de Karen</button>
+          </Link>
+          
+        <Link href="/grijalba/js">
+          <button className={styles.button}>Ir a la página de Grijalba</button>
+        </Link>
+
+        <Link href="/luis">
+          <button className={styles.button}>Ir a la página de Luis</button>
+        </Link>
+        <Link href="/cristian">
+          <button className={styles.button}>
+            Ir a la página de Cristian Lopez
+          </button>
         </Link>
       </main>
     </div>
