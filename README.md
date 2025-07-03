@@ -1,8 +1,24 @@
 # react_homework
-Homework repository to add team information  
-Prueba pull request Karen
-Prueba Grijalba
 
+Homework repository to add team information
+
+# Configuración para hacer Pull
+
+Repositorio original: https://github.com/psalamanca/react_homework
+
+Para ver la ruta del origin haces: git remote -v
+Usuario Julian hace fork, el repositorio de Julian: https://github.com/pJulianSB/react_homework
+
+Comando para agregar la url del proyecto principal bajo el nombre fork
+git remote add fork https://github.com/psalamanca/react_homework.gitf
+
+<<<<<<< HEAD
+=======
+Para hacer pull del proyecto principal realizo
+git pull fork main
+
+
+>>>>>>> a9b5ebb5a69c3079f33daa09fd6da89e3bf8f1be
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
