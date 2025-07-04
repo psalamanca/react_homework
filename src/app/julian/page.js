@@ -6,7 +6,7 @@ export default function Welcome() {
       <h2>Bienvenidos al curso intensivo de React</h2>
       <Label message="Aprendiendo React!" />
       <Label message="Julian Salamanca" />
-
+      <Label message="2025" />
     </div>
   );
 }
